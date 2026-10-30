@@ -1,2 +1,1 @@
-# MERAZ-VIP
-MERAZ VIP TOOLS
+# Meraz SMS
