@@ -16,4 +16,4 @@ if [ -f requirements.txt ]; then
     python -m pip install -r requirements.txt
 fi
 
-python main.py
+python sms.py
